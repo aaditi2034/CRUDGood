@@ -1,0 +1,89 @@
+body{
+    margin: 0;
+}
+ul {
+    list-style: none;
+}
+button {
+    background-color: blue;
+    color: snow;
+    font-size: large;
+    width: 90px;
+    height: 25px;
+}
+table {
+    text-align: left;
+}
+table th{
+    text-align: center;
+}
+
+.header1{
+    background-color: navy;
+    color: snow;
+    background-size: 100%;
+    font-size: 100px;
+    text-align: center;
+}
+.routerContainer{
+    background-color: #9fcef4;
+    height: 250px;
+}
+
+.part{
+    display: inline-block;
+    font-size: 25px;
+}
+#part1 {
+    width: 20%;
+    float: left;
+    margin-top: 20px;
+}
+#part2{
+    width: 80%;
+    margin: 0 auto;
+}
+.table-head {
+    display: inline-table;
+}
+.part div{
+    display: inline-block;
+}
+form{
+    text-align: center;
+    padding-top: 35px;
+}
+.form-control{
+    width: 180px;
+    height: 20px;
+}
+.row-label{
+    width: 100%;
+}
+label{
+    font-size: 18px;
+    margin-right: 20px;
+
+}
+#label-id{
+    width: 15%;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.tab-col {
+    display: inline-block;
+    margin-right: 12px;
+}
+.table-head div{
+    font-weight: bold;
+}
+.table-body {
+    font-size: 20px;
+}
+#delete-btn {
+    background-color: red;
+}
+#edit-btn {
+    background-color: darkcyan;
+}
